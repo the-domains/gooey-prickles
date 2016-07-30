@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.011552451644092798
 name: Gooey Prickles
+navigation:
+  - name: 2015 Reel
+    id: b2387ff4-32cb-41c2-be27-1948d3c101e4
+    type: content
 title: SHOW REEL
 description: '2016'
