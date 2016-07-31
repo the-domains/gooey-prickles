@@ -16,5 +16,8 @@ navigation:
   - name: 2015 Reel
     id: b2387ff4-32cb-41c2-be27-1948d3c101e4
     type: content
+  - name: 'Survive: Detroit'
+    url: 'https://vimeo.com/69936371'
+    type: external
 title: SHOW REEL
 description: '2016'
