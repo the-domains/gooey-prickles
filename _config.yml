@@ -19,5 +19,8 @@ navigation:
   - name: 'Survive: Detroit'
     url: 'https://vimeo.com/69936371'
     type: external
+  - name: Supervivere - Detroit
+    url: 'http://www.superviveredesign.com/#/survive-detroit/'
+    type: external
 title: SHOW REEL
 description: '2016'
